@@ -1,5 +1,15 @@
+# humeman/openauto
+Includes 2 patches:
+* AASDK error 30 issues
+* Crashes after 5 seconds
+* No touchscreen
 
-# OpenAuto
+Indended to be used with abraha2d's aasdk lib.
+
+Installer: https://github.com/humeman/openauto-patched-installer
+
+
+# Original Description
 
 ### Support project
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R4HXE5ESDR4U4)
