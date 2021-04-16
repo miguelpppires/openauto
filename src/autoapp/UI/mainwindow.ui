@@ -23,8 +23,8 @@ color: rgb(238, 238, 236);</string>
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>640</width>
-      <height>500</height>
+      <width>720</width>
+      <height>480</height>
      </rect>
     </property>
     <property name="text">
