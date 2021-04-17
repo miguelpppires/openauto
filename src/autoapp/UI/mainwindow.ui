@@ -41,7 +41,9 @@ color: rgb(238, 238, 236);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0); border:none; color: rgba(0, 0, 0, 0); }</string>
+     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0);}
+QPushButton { border: none;} 
+QPushButton { color: rgba(0, 0, 0, 0); }   </string>
     </property>
     <property name="text">
      <string>Settings</string>
@@ -63,7 +65,9 @@ color: rgb(238, 238, 236);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0); border:none; color: rgba(0, 0, 0, 0); }</string>
+     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0);}
+QPushButton { border: none;} 
+QPushButton { color: rgba(0, 0, 0, 0); }   </string>
     </property>
     <property name="text">
      <string>Exit</string>
@@ -82,7 +86,9 @@ color: rgb(238, 238, 236);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0); border:none; color: rgba(0, 0, 0, 0); }</string>
+     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0);}
+QPushButton { border: none;} 
+QPushButton { color: rgba(0, 0, 0, 0); }   </string>
     </property>
     <property name="text">
      <string>Toggle cursor</string>
@@ -104,7 +110,9 @@ color: rgb(238, 238, 236);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0); border:none; color: rgba(0, 0, 0, 0); }</string>
+     <string notr="true">QPushButton { background-color: rgba(0, 0, 0, 0);}
+QPushButton { border: none;} 
+QPushButton { color: rgba(0, 0, 0, 0); }   </string>
     </property>
     <property name="text">
      <string>Wireless connection</string>
@@ -115,3 +123,15 @@ color: rgb(238, 238, 236);</string>
     <property name="default">
      <bool>false</bool>
     </property>
+   </widget>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>pushButtonToggleCursor</tabstop>
+  <tabstop>pushButtonWirelessConnection</tabstop>
+  <tabstop>pushButtonSettings</tabstop>
+  <tabstop>pushButtonExit</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
