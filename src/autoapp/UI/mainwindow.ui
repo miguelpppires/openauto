@@ -51,6 +51,10 @@ color: rgb(238, 238, 236);</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButtonExit">
+    <property name="styleSheet">
+   <string notr="true">background-color: rgba(46, 52, 54, 0);
+color: rgba (238, 238, 236, 0);</string>
+  </property>
     <property name="geometry">
      <rect>
       <x>10</x>
